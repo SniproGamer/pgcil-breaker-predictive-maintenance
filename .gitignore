@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# =========================
+# CRITICAL: Project Data (Keeps company data private)
+# =========================
+data/
+*.csv
+*.xlsx
+*.parquet
